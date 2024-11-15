@@ -18,3 +18,9 @@ The objective of this project is to classify text samples based on a labeled dat
 - **Results**: The trained models achieved high accuracy, with insights on model effectiveness for text classification tasks.
 - **Insights**: The EDA revealed important features in the text, and model evaluation provided guidance on which algorithms perform well on this dataset.
 - **Conclusion**: This project successfully showcases text classification in NLP, highlighting areas for future improvement, such as deep learning models or enhanced preprocessing techniques.
+
+## Data discription
+![{BBAFE819-7CEC-4803-AE4A-A21B62D86E33}](https://github.com/user-attachments/assets/e5676a49-c62d-4669-8e1f-4acd9370718c)
+
+## The model result
+![{8462A89E-AB0B-48B4-9D30-4F6B3A6C3A1F}](https://github.com/user-attachments/assets/de518e7e-6d21-41eb-a2cd-c09799e98db4)
