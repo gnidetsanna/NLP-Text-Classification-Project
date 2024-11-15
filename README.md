@@ -5,7 +5,7 @@
 The objective of this project is to classify text samples based on a labeled dataset using NLP techniques. This project demonstrates how to approach text classification tasks by processing textual data, training classification models, and evaluating their performance.
 
 ## 2. Data Sources
-- **Dataset**: The dataset used in this project comes from [specify source, e.g., Kaggle, public dataset, etc.].
+- **Dataset**: The dataset used in this project comes from *kaggle competitions download -c tweet-sentiment-extraction*
 - **Data Structure**: It contains textual data with labels for classification.
 - **Data Challenges**: Text data preprocessing is essential, addressing issues like stopwords, stemming, lemmatization, and feature extraction.
 
